@@ -1,0 +1,4 @@
+group,n_pairs,jaccard_mean,jaccard_sd,pert_mean,pert_sd
+A,9,0.442,0.294,80.592,63.481
+B,9,0.194,0.083,13.695,8.4
+M,9,0.233,0.06,44.31,28.901
